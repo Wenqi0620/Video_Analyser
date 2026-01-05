@@ -1,0 +1,14 @@
+选项1（英文，简洁）:
+Comprehensive video quality analyzer for AI-generated videos. Analyzes FPS dynamics, motion continuity, duplicate frames, and wobble distortion. Batch processing with Excel/CSV reports.
+
+选项2（英文，详细）:
+Python tool for analyzing AI-generated video quality: FPS stability, motion continuity, frame statistics, and distortion detection. Supports batch analysis with Excel export for Gen-2, Pika, PixVerse, Kling, and more.
+
+选项3（英文，技术导向）:
+Video quality analysis framework with FPS dynamics, motion continuity scoring, duplicate frame detection, and optical flow analysis. Batch processing with comprehensive Excel reports.
+
+选项4（中英文混合）:
+AI视频质量分析工具 | Video quality analyzer for AI-generated videos. Analyzes FPS dynamics, motion continuity, duplicate frames. Batch processing with Excel reports.
+
+选项5（最简洁）:
+Video quality analyzer for AI-generated videos. FPS dynamics, motion continuity, duplicate detection, batch analysis with Excel export.
